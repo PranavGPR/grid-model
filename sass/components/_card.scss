@@ -1,4 +1,16 @@
+h1 {
+  margin: 2rem 1rem;
+}
+
 .card {
-  background-color: orangered;
+  background-image: linear-gradient(
+    to right,
+    $color-primary-light,
+    $color-primary-dark
+  );
   height: 10rem;
+  display: flex;
+  font-size: 2rem;
+  justify-content: center;
+  align-items: center;
 }
