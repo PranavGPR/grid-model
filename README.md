@@ -1,3 +1,3 @@
-# A simple Grid System for further usage
+# CSS Grids
 
-### Anyone can use this for forming Grid!
+A sample responsive grid layout which can be used in any HTML, SASS projects.
